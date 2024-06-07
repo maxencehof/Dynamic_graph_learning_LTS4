@@ -18,7 +18,7 @@ The repository consists of three main files:
 To run the project, ensure you have a Python environment with the necessary dependencies installed. You can start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/maxencehof/Dynamic_graph_learning_LTS4
 cd your-repository-directory
 ```
 
